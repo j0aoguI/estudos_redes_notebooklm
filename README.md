@@ -20,3 +20,10 @@ e, consequentemente, como vulnerabilidades e ataques podem ocorrer nesses ambien
 - Utilizar ferramentas de análise de redes;
 - Relacionar os conceitos de redes com Segurança da Informação e Cibersegurança;
 - Construir uma base para estudos futuros em Pentest, Blue Team, SOC e Segurança de dados
+
+# Fontes
+# Conteúdos estudos
+# Engenharia de prompts
+# Cicatrizes do aprendizado
+# Miniguia de Estudos
+# Conclusão
